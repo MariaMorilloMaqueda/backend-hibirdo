@@ -1,0 +1,12 @@
+{
+    "require": {
+        "jaxon-php/jaxon-core": "~4.1",
+        "guzzlehttp/guzzle": "~7.6"
+    },
+    "autoload": {
+        "files":[
+            "conf/conf.php"
+        ]
+
+    }
+}
